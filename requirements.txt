@@ -1,0 +1,17 @@
+os
+torch
+random_split
+torchvision
+accuracy
+flask
+Flask
+request
+jsonify
+flask_cors
+CORS
+matplotlib
+PIL
+Image
+requests
+io
+BytesIO

@@ -1,8 +1,8 @@
+flask
 torch
 random_split
 torchvision
 accuracy
-flask
 Flask
 request
 jsonify
